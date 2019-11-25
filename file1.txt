@@ -1,1 +1,2 @@
 Hi Alice this is my first versionn project
+Hi Paul I have cloned your repository to make changes
